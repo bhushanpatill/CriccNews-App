@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CriccNews-App/static/css/main.073c9b0a.css",
+    "main.js": "/CriccNews-App/static/js/main.43924365.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CriccNews-App/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/CriccNews-App/index.html",
+    "main.073c9b0a.css.map": "/CriccNews-App/static/css/main.073c9b0a.css.map",
+    "main.43924365.js.map": "/CriccNews-App/static/js/main.43924365.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CriccNews-App/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.43924365.js"
+  ]
+}

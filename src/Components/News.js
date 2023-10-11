@@ -25,12 +25,14 @@ export class News extends Component {
       <div className = "container my-2">
         <h1>Cricket Related Latest-Headlines</h1>
         <div className = "row">
-        {this.state.articles && articles.map((element)=> {
+        {this.state.articles.length?this.state.articles.map((element)=> {
             return <div className = "col-md-3" key = {element.url}>
-            <NewsItem title = {element.title} description = {element.description} imageUrl = {element.urlToImage} newsUrl={element.url}/>
+            <NewsItem title = {element.title?element.title.slice(0,80):""} description = {element.description?element.description.slice(0,100):""} imageUrl = {element.urlToImage} newsUrl={element.url}/>
             <element/>
         </div>
-      })}
+      }):null}
+        
+     
             {/* <div className = "col-md-4">
                 <NewsItem title = "my-title" description = "my-description"/>
             </div>

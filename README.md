@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-This is how CriccNews-App first page looks like - 
-![Screenshot1 CriccNews-App](https://github.com/bhushanpatill/CriccNews-App/assets/140095187/377044ca-edc2-4a58-909b-81e8e8e1f130)
+This is how CriccNews-App looks like - 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -5,6 +5,8 @@ This is how CriccNews-App looks like -
 https://github.com/bhushanpatill/CriccNews-App/assets/140095187/dedec3e1-ffec-4e67-8c59-0ba8c1b328bd
 
 
+Below are images of CriccNews-App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -7,7 +7,13 @@ https://github.com/bhushanpatill/CriccNews-App/assets/140095187/dedec3e1-ffec-4e
 
 Below are images of CriccNews-App - 
 ![ScreenshotCriccNews-App](https://github.com/bhushanpatill/CriccNews-App/assets/140095187/642d2d91-8738-43b6-ac0d-f6de9fad1d8b)
+
+
+More view of CriccNews-App
 ![Screenshot2CriccNews-App](https://github.com/bhushanpatill/CriccNews-App/assets/140095187/75a321a8-3f69-4478-b928-f29952b8945f)
+
+Below is the image when someone click on READ MORE..
+![Screenshot 2024-02-29 202649](https://github.com/bhushanpatill/CriccNews-App/assets/140095187/489493be-0ffe-4474-875c-f063aa763233)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
